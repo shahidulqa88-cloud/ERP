@@ -1,0 +1,9 @@
+{
+  "name": "mill-erp-server",
+  "version": "1.0.0",
+  "description": "Spinning mill ERP: Admin & HR portal with a real server, login and per-company data",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22" },
+  "license": "UNLICENSED"
+}
